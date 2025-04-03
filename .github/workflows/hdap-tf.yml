@@ -7,14 +7,14 @@ on:
       - develop
     paths:
       - '**/*.tf'
-      - '.github/workflows/terraform.yml'
+      - '.github/workflows/hdap-tf.yml'
   pull_request:
     branches:
       - main
       - develop
     paths:
       - '**/*.tf'
-      - '.github/workflows/terraform.yml'
+      - '.github/workflows/hdap-tf.yml'
   workflow_dispatch:
     inputs:
       environment:
