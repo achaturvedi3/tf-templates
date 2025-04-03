@@ -1,4 +1,4 @@
-name: "Terraform AWS Aurora PostgreSQL Deployment"
+name: "VBCAPPSDEVOPS - HDAP"
 
 on:
   push:
